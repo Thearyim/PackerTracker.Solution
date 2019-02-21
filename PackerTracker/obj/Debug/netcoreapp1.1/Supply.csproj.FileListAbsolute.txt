@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/PackerTracker.Solution/PackerTracker/bin/Debug/netcoreapp1.1/Supply.deps.json
+/Users/Guest/Desktop/PackerTracker.Solution/PackerTracker/bin/Debug/netcoreapp1.1/Supply.runtimeconfig.json
+/Users/Guest/Desktop/PackerTracker.Solution/PackerTracker/bin/Debug/netcoreapp1.1/Supply.runtimeconfig.dev.json
+/Users/Guest/Desktop/PackerTracker.Solution/PackerTracker/obj/Debug/netcoreapp1.1/Supply.AssemblyInfo.cs

@@ -1,0 +1,8 @@
+@using PackerTracker.Models;
+
+<h1>Upcoming Trip</h1>
+
+
+    <p>Name: @Model.GetName()</p>
+    <p>Supply Purchased: @Model.GetCampingPurchased()</p>
+    <p>Supply Needed: @Model.GetCampingNotPurchased()</p>
